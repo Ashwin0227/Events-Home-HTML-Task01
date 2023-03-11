@@ -1,0 +1,144 @@
+
+.style{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(75, 75, 92);
+    margin: auto;
+    width:1250px;
+    height:650px;
+    border:3px solid black;
+}
+.center{
+    margin: auto;
+    background-color: white;
+    margin-top: 40px;
+    width: 30%;
+    border: 3px solid black;
+    padding-top: 3px;
+    padding-bottom: 2px;
+    text-align: center;
+}
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+   
+
+} 
+.flex-container{
+ font-family: cursive;
+   height: auto;
+    width: 200%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-color: black;
+}
+.flex-box{
+    font-family: italic;
+    float: left;
+    width: 280px;
+    height: 240px;
+    background-color: white;
+   border:2px solid black;
+    text-align: center;
+    line-height: 70px;
+    font-size: 25px;
+    margin: 15px;
+    padding-left: 1px;
+    padding-top: 3px;
+
+}
+ .oval{
+    background-color: white;
+    font-family: cursive;
+    height: 85px;
+    width: 70px;
+    border-radius: 80%;
+    border: 2px solid black;
+}
+
+/* .box{
+    margin-left: 20px; ;
+    width: 100px;
+    height: 120px;
+    padding-top: 2px;
+    padding-left: 10px;
+   border:2px solid black;  
+}
+.box1{
+      border: 2px solid black;
+      width: 70%;
+      height: 70%;
+      padding-left: 20%;
+    
+} */ 
+   .div1{
+    width: 165px;
+    height: 160px;
+    padding-right: 15px;
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom:10px;
+     float: right;
+  }
+  .square{
+    background-color: white;
+    height: 50px;
+    width: 150px;
+  }
+  .square1{
+    background-color: white;
+    height: 50px;
+    width: 140px;
+  }
+  .square2{
+    background-color: white;
+    text-align: center;
+    height: 5px;
+    width: 130px;
+    padding-top: 1%;
+   padding-bottom: 35%;
+   padding-left: 5px;
+   padding-right: 9px;
+    border: 4px solid black;
+  }
+  /* .square3{
+    height: 10px;
+    width: 120px;
+   
+  } */
+
+  div.a{
+    background-color: white;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  div.b{
+    background-color: white;
+    font-size: 18.2px;
+  }
+  div.c{
+    font-size: 19px;
+    font-style: italic;
+    font-stretch: normal;
+  }
+  .div2{
+    border:2px solid black;
+    padding-top: 11%;
+    padding-left: 6%;
+    width: 40%;
+    height:140px ;
+    float:left ;
+  }
+  .div3{
+        border:2px solid black;
+        width: 110%;
+        height:40px ;   
+  }
+  
+  /* .row::after{
+    content: "";
+    display: table;
+    clear: both;
+
+  } */
